@@ -35,7 +35,7 @@ function Startpage() {
         <div className="main-row-text">
           <h1 data-aos="fade-up">"Music Expresses That Which Cannot be put into Words and that Which cannot remain Silent."</h1>
           <p>Feel Bored,Grab Some Noise Here</p>
-          <Link to={"/Mainpage"} className="startbtn" data-aos="zoom-in">
+          <Link to={"/Mainpage"} className="startbtn">
                 Start Noise
             </Link>
         </div>

@@ -14,7 +14,7 @@ export const Songlists=[
         song_name:"raktha sambandhagala",
         singer:"",
         image_src:require("../assets/songs_images/raktha_sambandhagala.jpeg") ,
-        song_src: require("../assets/audio_tracks/Shape_of_You.mp3"),
+        song_src: require("../assets/audio_tracks/raktha_sambandhagala.mp3"),
     },
     {
         id:"33",

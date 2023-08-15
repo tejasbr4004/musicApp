@@ -274,7 +274,7 @@ export const Songlists=[
         song_name:"joy joy jolly",
         singer:"dhanush anirudh",
         image_src:require("../assets/songs_images/joy_joy_jolly.jpeg") ,
-        song_src:require("../assets/audio_tracks/why_this_kolaveri_di.mp3") ,
+        song_src:require("../assets/audio_tracks/joy_joy_jolly.mp3") ,
     },
     
     

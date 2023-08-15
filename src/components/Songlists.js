@@ -22,7 +22,7 @@ export const Songlists=[
         song_name:"jolly days",
         singer:"",
         image_src:require("../assets/songs_images/jolly_days.jpeg") ,
-        song_src: require("../assets/audio_tracks/Shape_of_You.mp3"),
+        song_src: require("../assets/audio_tracks/jolly_days.mp3"),
     },
     {
         id:"14",

@@ -1,6 +1,30 @@
 export const Songlists=[
 
     {
+        id:"31",
+        movie_name:"gaalipata",
+        song_name:"akasha este yakedyu",
+        singer:"",
+        image_src:require("../assets/songs_images/akasha_este_yakedyu.jpeg") ,
+        song_src: require("../assets/audio_tracks/Shape_of_You.mp3"),
+    },
+    {
+        id:"32",
+        movie_name:"jolly days",
+        song_name:"raktha sambandhagala",
+        singer:"",
+        image_src:require("../assets/songs_images/raktha_sambandhagala.jpeg") ,
+        song_src: require("../assets/audio_tracks/Shape_of_You.mp3"),
+    },
+    {
+        id:"33",
+        movie_name:"jolly days",
+        song_name:"jolly days",
+        singer:"",
+        image_src:require("../assets/songs_images/jolly_days.jpeg") ,
+        song_src: require("../assets/audio_tracks/Shape_of_You.mp3"),
+    },
+    {
         id:"14",
         movie_name:"",
         song_name:"shape of you",
@@ -241,6 +265,15 @@ export const Songlists=[
         song_name:"why this kolaveri di",
         singer:"dhanush anirudh",
         image_src:require("../assets/songs_images/why_this_kolaveri_di.jpg") ,
+        song_src:require("../assets/audio_tracks/why_this_kolaveri_di.mp3") ,
+    },
+    
+    {
+        id:"34",
+        movie_name:"jolly days",
+        song_name:"joy joy jolly",
+        singer:"dhanush anirudh",
+        image_src:require("../assets/songs_images/joy_joy_jolly.jpeg") ,
         song_src:require("../assets/audio_tracks/why_this_kolaveri_di.mp3") ,
     },
     

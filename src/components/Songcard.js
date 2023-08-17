@@ -32,7 +32,7 @@ const Card = ({songs}) => {
                             <img src={song.image_src} className="card-img-top" alt={song.song_name} />
                             <div className="card-body">
                                 <h5 className="card-title">{song.song_name} - {song.movie_name}</h5>
-                                <audio controls controlsList='nodownload' src={song.song_src} onPlay={handlePlay}
+                                <audio controls preload='auto' loop controlsList='nodownload' src={song.song_src} onPlay={handlePlay}
                                 className='audiostyle' />
                             </div>
                             </div>

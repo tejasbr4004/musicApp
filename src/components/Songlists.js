@@ -22,7 +22,7 @@ export const Songlists=[
         song_name:"yeh raatein yeh mausam",
         singer:"sanam simran sehgal",
         image_src:require("../assets/songs_images/yeh_raaten_yeh_mausam.jpeg"),
-        song_src:require("../assets/audio_tracks/")
+        song_src:require("../assets/audio_tracks/yeh_raaten_yeh_mausam.mp3")
     },
     
     {

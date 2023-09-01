@@ -14,12 +14,12 @@ export const Songlists=[
         song_name:"ninna nodalentho",
         singer:"",
         image_src:require("../assets/songs_images/ninna_nodalentho.jpeg"),
-        song_src:require("../assets/audio_tracks/")
+        song_src:require("../assets/audio_tracks/ninna_nodalentho.mp3")
     },
     {
         id:"35",
         movie_name:"album",
-        song_name:"yeh raaten yeh mausam",
+        song_name:"yeh raatein yeh mausam",
         singer:"sanam simran sehgal",
         image_src:require("../assets/songs_images/yeh_raaten_yeh_mausam.jpeg"),
         song_src:require("../assets/audio_tracks/")

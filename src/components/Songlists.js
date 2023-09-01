@@ -4,9 +4,25 @@ export const Songlists=[
         id:"6",
         movie_name:"mussanjemaatu",
         song_name:"yenagali",
-        singer:"",
+        singer:"sudeep",
         image_src:require("../assets/songs_images/Yenagali.jpg"),
         song_src:require("../assets/audio_tracks/Yenagali.mp3")
+    },
+    {
+        id:"34",
+        movie_name:"mussanjemaatu",
+        song_name:"ninna nodalentho",
+        singer:"",
+        image_src:require("../assets/songs_images/ninna_nodalentho.jpeg"),
+        song_src:require("../assets/audio_tracks/")
+    },
+    {
+        id:"35",
+        movie_name:"album",
+        song_name:"yeh raaten yeh mausam",
+        singer:"sanam simran sehgal",
+        image_src:require("../assets/songs_images/yeh_raaten_yeh_mausam.jpeg"),
+        song_src:require("../assets/audio_tracks/")
     },
     
     {
@@ -272,7 +288,7 @@ export const Songlists=[
     },
     
     {
-        id:"34",
+        id:"36",
         movie_name:"jolly days",
         song_name:"joy joy jolly",
         singer:"dhanush anirudh",

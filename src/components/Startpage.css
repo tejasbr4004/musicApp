@@ -172,18 +172,29 @@ footer{
 
 @media (max-width: 365px) {
   .card{
-    width: 16rem;
+    width: 20.5rem;
   }
   .audiostyle{
-     width: 240px;
+     width: 298px;
   }
 }
+@media (max-width: 280px) {
+  .card{
+    width: 15.7rem;
+  }
+  .audiostyle{
+     width: 230px;
+  }
+}
+
+
 @media (max-width: 977px) {
   @keyframes typing {
     from { width: 0 }
     to { width: 90% }
   }
 }
+
 @media (max-width: 351px) {
   .main-row-text h1{
     font-size: 1rem;

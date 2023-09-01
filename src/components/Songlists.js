@@ -1,13 +1,6 @@
 export const Songlists=[
 
-    {
-        id:"6",
-        movie_name:"mussanjemaatu",
-        song_name:"yenagali",
-        singer:"sudeep",
-        image_src:require("../assets/songs_images/Yenagali.jpg"),
-        song_src:require("../assets/audio_tracks/Yenagali.mp3")
-    },
+   
     {
         id:"34",
         movie_name:"mussanjemaatu",
@@ -17,8 +10,16 @@ export const Songlists=[
         song_src:require("../assets/audio_tracks/ninna_nodalentho.mp3")
     },
     {
+        id:"6",
+        movie_name:"mussanjemaatu",
+        song_name:"yenagali",
+        singer:"sudeep",
+        image_src:require("../assets/songs_images/Yenagali.jpg"),
+        song_src:require("../assets/audio_tracks/Yenagali.mp3")
+    },
+    {
         id:"35",
-        movie_name:"album",
+        movie_name:"album moon chand",
         song_name:"yeh raatein yeh mausam",
         singer:"sanam simran sehgal",
         image_src:require("../assets/songs_images/yeh_raaten_yeh_mausam.jpeg"),
@@ -246,14 +247,7 @@ export const Songlists=[
         image_src:require("../assets/songs_images/pasoori.jpg") ,
         song_src:require("../assets/audio_tracks/pasoori.mp3") ,
     },
-    {
-        id:"26",
-        movie_name:"vikrant rona",
-        song_name:"ra ra rakkamma",
-        singer:"",
-        image_src:require("../assets/songs_images/ra_ra_rakkamma.jpg") ,
-        song_src:require("../assets/audio_tracks/ra_ra_rakkamma.mp3") ,
-    },
+   
     {
         id:"27",
         movie_name:"zara hatke zara bachke",
@@ -261,6 +255,14 @@ export const Songlists=[
         singer:"",
         image_src:require("../assets/songs_images/tere_vaaste.jpg") ,
         song_src:require("../assets/audio_tracks/tere_vaaste.mp3") ,
+    },
+    {
+        id:"26",
+        movie_name:"vikrant rona",
+        song_name:"ra ra rakkamma",
+        singer:"",
+        image_src:require("../assets/songs_images/ra_ra_rakkamma.jpg") ,
+        song_src:require("../assets/audio_tracks/ra_ra_rakkamma.mp3") ,
     },
     {
         id:"28",

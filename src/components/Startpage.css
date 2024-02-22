@@ -1,4 +1,6 @@
-@import url("https://fonts.googleapis.com/css2?family=Passion+One:wght@400;700;900&display=swap");
+/* @import url("https://fonts.googleapis.com/css2?family=Passion+One:wght@400&display=swap"); */
+
+@import url('https://fonts.googleapis.com/css2?family=Anta&family=Bungee+Spice&display=swap');
 
 #main {
   font-family: Consolas, sans-serif;
@@ -40,12 +42,17 @@
       flex-basis: 50%;
       flex-grow: 1;
       h1 {
-        font-family: "Bungee", cursive;
-        font-size: 4rem;
+        
+        font-family: "Anta", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        /* font-family: "Bungee Spice", sans-serif;
+        font-weight: 400;
+        font-style: normal; */
         padding: 10px;
       }
       p {
-        color: #e86507;
+        color: yellow;
         font-size: 1.2rem;
       }
     }
